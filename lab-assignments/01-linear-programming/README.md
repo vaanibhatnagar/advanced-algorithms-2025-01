@@ -40,7 +40,7 @@ Then, `add` and `commit` your changed files. This should only contain the notebo
 
 Once you have committed your changes, push them to origin (your fork of the course repository). If you have not already established an upstream branch, you will have to run `git push --set-upstream origin assignment-01`.
 
-Open a pull request, making sure that the base repository is `USERNAME/advanced-algorithms-20XX-YY`. Set `olincollege/advanced-algorithms-2025-01-instructor` as reviewers.
+Open a pull request, making sure that the base repository is `USERNAME/advanced-algorithms-20XX-YY`. Set `olincollege/advanced-algorithms-2025-01-instructor` as reviewers; if you are unable to do this, manually add the teaching team members to your PR (aditivinod, crane919, AnmolRattanSingh, and ruchadave16).
 
 Submit the URL of the PR in Canvas.
 
