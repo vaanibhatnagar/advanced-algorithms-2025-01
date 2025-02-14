@@ -1,4 +1,4 @@
-# Assignment 0: Network Flows
+# Assignment 3: Heuristics
 
 The purpose of this assignment is to practice implementing a heuristic algorithm
 in the context of a 'real world' problem. 
